@@ -7,7 +7,7 @@
 1、安装一个数据库，默认使用 sqlite3，下载地址：https://www.sqlite.org/download.html
 2、安装 node.js，下载地址：http://nodejs.cn/download/
 3、安装 Python3.x 版本，下载地址：
-我平时开发轻量应用使用的3件套
+我平时开发轻量应用使用的3件套，数据存储在 python/dist/database.db 中，保存好这个文件即可，数据库也没加密。
 
 ## 安装依赖
 第一次启动，安装依赖文件
