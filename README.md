@@ -5,12 +5,16 @@
 
 ## 准备工作
 1、安装一个数据库，默认使用 sqlite3，下载地址：https://www.sqlite.org/download.html
+
 2、安装 node.js，下载地址：http://nodejs.cn/download/
+
 3、安装 Python3.x 版本，下载地址：
+
 我平时开发轻量应用使用的3件套
 
 ## 安装依赖
 第一次启动，安装依赖文件
+
 安装前端依赖文件
 
     cd html
@@ -23,6 +27,7 @@
 
 ## 启动方法
 需要两个 shell 窗口
+
 前端启动
 
     cd html
@@ -37,7 +42,11 @@
 
 ## 个人配置
 所有可修改的配置都在 config 文件中
+
 前端配置
+
 html/src/config/index.js
+
 后端配置
+
 python/config.py
