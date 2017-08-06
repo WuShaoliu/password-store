@@ -45,7 +45,7 @@
     python app.py
 
 启动后访问 localhost:8080 即可看到管理界面
-![项目图片](res/project_image.png)
+![项目图片](https://github.com/WuShaoliu/images/tree/master/account-store/view.png)
 ## 个人配置
 所有可修改的配置都在 config 文件中
 
